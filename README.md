@@ -41,3 +41,16 @@ Running the script will:
 ---
 
 
+## 📚 Citation / Reference
+
+If you find this repository useful for your research or teaching, please consider citing the following paper:
+
+```bibtex
+@inproceedings{chen2022quantum,
+  title={Quantum long short-term memory},
+  author={Chen, Samuel Yen-Chi and Yoo, Shinjae and Fang, Yao-Lung L},
+  booktitle={Icassp 2022-2022 IEEE international conference on acoustics, speech and signal processing (ICASSP)},
+  pages={8622--8626},
+  year={2022},
+  organization={IEEE}
+}
