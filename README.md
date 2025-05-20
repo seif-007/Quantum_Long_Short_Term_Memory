@@ -29,3 +29,15 @@ We use a toy **damped simple harmonic motion** dataset defined in `data/damped_s
 python QLSTM_v0.py
 ```
 
+Running the script will:
+
+- 🧠 Train a **QLSTM model** for **100 epochs**
+- 💾 Save plots and model checkpoints under the folder:  
+  `QLSTM_TS_MODEL_DAMPED_SHM_1/`
+- 📊 Generate the following visualizations:
+  - Training/testing **loss curves**
+  - **Ground truth** vs. **predicted output** plots
+
+---
+
+
