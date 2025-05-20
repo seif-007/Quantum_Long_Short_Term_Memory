@@ -1,6 +1,6 @@
 # QLSTM for Time-Series Forecasting with Quantum Circuits
 
-This repository implements a **Quantum-enhanced Long Short-Term Memory (QLSTM)** model for time-series forecasting. It integrates parameterized quantum circuits (VQCs) into a classical LSTM architecture using [PennyLane](https://pennylane.ai/) and [PyTorch](https://pytorch.org/).
+This repository implements a **Quantum Long Short-Term Memory (QLSTM)** model for time-series forecasting. It integrates parameterized quantum circuits (VQCs) into a classical LSTM architecture using [PennyLane](https://pennylane.ai/) and [PyTorch](https://pytorch.org/).
 
 ---
 
